@@ -21,4 +21,4 @@ Prior to Nomic, I worked at [Deep Genomics](https://www.deepgenomics.com) where 
 
 I have also participated in open-source/open-community research groups with [ML Collective](https://mlcollective.org/) and [OpenBioML](https://www.openbioml.org/).
 
-In a past life, I was a (mediocre) Divsion 1 Baseball Player at Davidson College (yes, Steph Curry's Davidson).
+In a past life, I was a Divsion 1 Baseball Player at Davidson College (yes, Steph Curry's Davidson).
