@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: zach's blog # blog_name will be displayed in your blog page
-blog_description:
+blog_description: see my substack for my longer form posts: https://www.nuss-and-bolts.com/
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
